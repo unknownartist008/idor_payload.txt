@@ -1,0 +1,14 @@
+https://example.com/view_profile?user_id=456
+https://example.com/view_profile?user_id=789
+
+
+https://example.com/view_file?file_id=456
+https://example.com/view_file?file_id=789
+
+
+https://example.com/view_order?order_id=456
+https://example.com/view_order?order_id=789
+
+
+https://example.com/view_restricted?resource_id=456
+https://example.com/view_restricted?resource_id=789
